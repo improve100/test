@@ -10,9 +10,3 @@ pip3.7 install xxx
 1）修改keywordscouter.py中路径为需要变更路径
 2）设置keywordscouter.py打开方式为python
 3）双击运行
-3）双击运行
-3）双击运行
-3）双击运行
-3）双击运行
-3）双击运行
-3）双击运行
